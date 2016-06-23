@@ -3,12 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'zjor'
-SITENAME = u'Crazy Ideas'
+SITENAME = u'Engineering notes'
 SITEURL = ''
 THEME = 'pelican-simplegrey'
 STATIC_PATHS = ['static/images']
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Prague'
 
 DEFAULT_LANG = u'en'
 
@@ -24,10 +24,11 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('github', 'https://github.com/zjor'),)
 
 DEFAULT_PAGINATION = 10
 
+GOOGLE_ANALYTICS='UA-72137960-1'
+DISQUS_SITENAME='zjor'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
