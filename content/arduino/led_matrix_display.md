@@ -73,4 +73,6 @@ Now let's do something more interesting and implement [the game of life](https:/
 The source code can be found [here](https://github.com/zjor/arduino/blob/master/the_game_of_life/the_game_of_life.ino).
 There are several configurations changing one another thus forming beautiful animation like on the video below.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDUbzU1nA8Q" frameborder="0" allowfullscreen></iframe>
+
 
