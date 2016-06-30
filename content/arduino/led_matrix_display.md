@@ -66,6 +66,7 @@ Let's look at the whole sketch which lights one pixel
 	}	
 
 Final result should look like this.
+
 ![Final result](/static/images/pixel_control.jpg)
 
 ## The Game of Life ##
